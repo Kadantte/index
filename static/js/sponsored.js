@@ -1,21 +1,6 @@
 window.addEventListener("load", () => {
     const sponsoredList = [
         {
-            id: "sponsored0",
-            title: "AnimeFever",
-            url: "https://www.animefever.tv",
-            description: 'Watch anime in ' +
-                '<span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">1080p</span> ' +
-                '<span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">720p</span>' +
-                ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">480p</span>' +
-                '<span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">360p</span>' +
-                ' x <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Subs</span>' +
-                ' , <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Dubs</span>' +
-                ' &amp; <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Downloads</span><span>, apps available in </span>' +
-                '<span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Android</span><span>' +
-                ' and </span><span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">iOS</span>'
-        },
-        {
             id: "sponsored1",
             title: "ZoRo.to",
             url: "https://zoro.to/",
@@ -29,19 +14,6 @@ window.addEventListener("load", () => {
         },
         {
             id: "sponsored2",
-            title: "Aniorb",
-            url: "https://beta.aniorb.me",
-            description: 'No ads, FREE anime & manga, no login, multiple servers!' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">1080p</span>' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">720p</span>' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">480p</span>' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">360p</span>' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Subs</span>' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Dubs</span> ' +
-            ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Downloads</span>'
-        },
-        {
-            id: "sponsored3",
             title: "KimAnime.com",
             url: "https://kimanime.com",
             description: 'Watch in ' +
@@ -51,7 +23,7 @@ window.addEventListener("load", () => {
             ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">360p</span>' +
             ' x <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Subs</span> / ' +
             ' <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Dubs</span> ' +
-            ' + <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Downloads</span><br>(Major Website Update upcoming!)'
+            ' + <span class="badge rounded-pill" style="background-color: #ffc106;color: #202020;">Downloads</span>'
         }
     ]
 
